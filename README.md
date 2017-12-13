@@ -1,3 +1,3 @@
 # zuckerbot
-# MarchovBot + tweepy + showapi = DM + tweets feedbacks
-#
+# MarchovBot + tweepy + showapi = DM feedbacks
+#TrendReq = trending topics in tweets replies
