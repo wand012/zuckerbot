@@ -1,0 +1,93 @@
+One of the most powerful features of VR is empathy. My goal here was to show how VR can raise awareness and help us see what's happening in different parts of the world. I also wanted to share the news of our partnership with the Red Cross to help with the recovery. Reading some of the comments, I realize this wasn't clear, and I'm sorry to anyone this offended.
+
+We're working on the WhatsApp outage to get it back online. Sorry for the inconvenience.
+
+Tonight concludes Yom Kippur, the holiest day of the year for Jews when we reflect on the past year and ask forgiveness for our mistakes. For those I hurt this year, I ask forgiveness and I will try to be better. For the ways my work was used to divide people rather than bring us together, I ask forgiveness and I will work to do better. May we all be better in the year ahead, and may you all be inscribed in the book of life.
+
+Building an inclusive global community requires establishing a new process for citizens worldwide to participate in community governance. I hope that we can explore examples of how collective decision-making might work at scale.
+Facebook is not just technology or media, but a community of people. That means we need Community Standards that reflect our collective values for what should and should not be allowed.
+
+In the last year, the complexity of the issues we've seen has outstripped our existing processes for governing the community. We saw this in errors taking down newsworthy videos related to Black Lives Matter and police violence, and in removing the historical Terror of War photo from Vietnam. We've seen this in misclassifying hate speech in political debates in both directions -- taking down accounts and content that should be left up and leaving up content that was hateful and should be taken down. Both the number of issues and their cultural importance has increased recently.
+
+This has been painful for me because I often agree with those criticizing us that we're making mistakes. These mistakes are almost never because we hold ideological positions at odds with the community, but instead are operational scaling issues. Our guiding philosophy for the Community Standards is to try to reflect the cultural norms of our community. When in doubt, we always favor giving people the power to share more. 
+
+There are a few reasons for the increase in issues we've seen: cultural norms are shifting, cultures are different around the world, and people are sensitive to different things.
+
+First, our community is evolving from its origin connecting us with family and friends to now becoming a source of news and public discourse as well. With this cultural shift, our Community Standards must adapt to permit more newsworthy and historical content, even if some is objectionable. For example, an extremely violent video of someone dying would have been marked as disturbing and taken down. However, now that we use Live to capture the news and we post videos to protest violence, our standards must adapt. Similarly, a photo depicting any child nudity would have always been taken down -- and for good reason -- but we've now adapted our standards to allow historically important content like the Terror of War photo. These issues reflect a need to update our standards to meet evolving expectations from our community.
+
+Second, our community spans many countries and cultures, and the norms are different in each region. It's not surprising that Europeans more frequently find fault with taking down images depicting nudity, since some European cultures are more accepting of nudity than, for example, many communities in the Middle East or Asia. With a community of almost two billion people, it is less feasible to have a single set of standards to govern the entire community so we need to evolve towards a system of more local governance.
+
+Third, even within a given culture, we have different opinions on what we want to see and what is objectionable. I may be okay with more politically charged speech but not want to see anything sexually suggestive, while you may be okay with nudity but not want to see offensive speech. Similarly, you may want to share a violent video in a protest without worrying that you're going to bother friends who don't want to see it. And just as it's a bad experience to see objectionable content, it's also a terrible experience to be told we can't share something we feel is important. This suggests we need to evolve towards a system of personal control over our experience.
+
+Fourth, we're operating at such a large scale that even a small percent of errors causes a large number of bad experiences. We review over one hundred million pieces of content every month, and even if our reviewers get 99% of the calls right, that's still millions of errors over time. Any system will always have some mistakes, but I believe we can do better than we are today.
+
+I've spent a lot of time over the past year reflecting on how we can improve our community governance. Sitting here in California, we're not best positioned to identify the cultural norms around the world. Instead, we need a system where we can all contribute to setting the standards. Although this system is not fully developed, I want to share an idea of how this might work.
+
+The guiding principles are that the Community Standards should reflect the cultural norms of our community, that each person should see as little objectionable content as possible, and each person should be able to share what they want while being told they cannot share something as little as possible. The approach is to combine creating a large-scale democratic process to determine standards with AI to help enforce them.
+
+The idea is to give everyone in the community options for how they would like to set the content policy for themselves. Where is your line on nudity? On violence? On graphic content? On profanity? What you decide will be your personal settings. We will periodically ask you these questions to increase participation and so you don't need to dig around to find them. For those who don't make a decision, the default will be whatever the majority of people in your region selected, like a referendum. Of course you will always be free to update your personal settings anytime.
+
+With a broader range of controls, content will only be taken down if it is more objectionable than the most permissive options allow. Within that range, content should simply not be shown to anyone whose personal controls suggest they would not want to see it, or at least they should see a warning first. Although we will still block content based on standards and local laws, our hope is that this system of personal controls and democratic referenda should minimize restrictions on what we can share.
+
+It's worth noting that major advances in AI are required to understand text, photos and videos to judge whether they contain hate speech, graphic violence, sexually explicit content, and more. At our current pace of research, we hope to begin handling some of these cases in 2017, but others will not be possible for many years.
+
+Overall, it is important that the governance of our community scales with the complexity and demands of its people. We are committed to always doing better, even if that involves building a worldwide voting system to give you more voice and control. Our hope is that this model provides examples of how collective decision-making may work in other aspects of the global community.
+
+This is an important time in the development of our global community, and it's a time when many of us around the world are reflecting on how we can have the most positive impact. 
+
+History has had many moments like today. As we've made our great leaps from tribes to cities to nations, we have always had to build social infrastructure like communities, media and governments for us to thrive and reach the next level. At each step we learned how to come together to solve our challenges and accomplish greater things than we could alone. We have done it before and we will do it again.
+
+I am reminded of President Lincoln's remarks during the American Civil War: "We can succeed only by concert. It is not 'can any of us imagine better?' but, 'can we all do better?' The dogmas of the quiet past, are inadequate to the stormy present. The occasion is piled high with difficulty, and we must rise with the occasion. As our case is new, so we must think anew, act anew."
+
+There are many of us who stand for bringing people together and connecting the world. I hope we have the focus to take the long view and build the new social infrastructure to create the world we want for generations to come.
+It's an honor to be on this journey with you. Thank you for being part of this community, and thanks for everything you do to make the world more open and connected.
+
+Mark
+
+I want to respond to President Trump's tweet this morning claiming Facebook has always been against him.
+
+Every day I work to bring people together and build a community for everyone. We hope to give all people a voice and create a platform for all ideas.
+
+Trump says Facebook is against him. Liberals say we helped Trump. Both sides are upset about ideas and content they don't like. That's what running a platform for all ideas looks like.
+
+The facts suggest the greatest role Facebook played in the 2016 election was different from what most are saying:
+
+More people had a voice in this election than ever before. There were billions of interactions discussing the issues that may have never happened offline. Every topic was discussed, not just what the media covered.
+
+This was the first US election where the internet was a primary way candidates communicated. Every candidate had a Facebook page to communicate directly with tens of millions of followers every day.
+
+Campaigns spent hundreds of millions advertising online to get their messages out even further. That's 1000x more than any problematic ads we've found.
+
+We ran "get out the vote" efforts that helped as many as 2 million people register to vote. To put that in perspective, that's bigger than the get out the vote efforts of the Trump and Clinton campaigns put together. That's a big deal.
+
+After the election, I made a comment that I thought the idea misinformation on Facebook changed the outcome of the election was a crazy idea. Calling that crazy was dismissive and I regret it. This is too important an issue to be dismissive. But the data we have has always shown that our broader impact -- from giving people a voice to enabling candidates to communicate directly to helping millions of people vote -- played a far bigger role in this election.
+
+We will continue to work to build a community for all people. We will do our part to defend against nation states attempting to spread misinformation and subvert elections. We'll keep working to ensure the integrity of free and fair elections around the world, and to ensure our community is a platform for all ideas and force for good in democracy.
+
+I want to share some thoughts on Facebook and the election.
+
+Our goal is to give every person a voice. We believe deeply in people. Assuming that people understand what is important in their lives and that they can express those views has driven not only our community, but democracy overall. Sometimes when people use their voice though, they say things that seem wrong and they support people you disagree with.
+
+After the election, many people are asking whether fake news contributed to the result, and what our responsibility is to prevent fake news from spreading. These are very important questions and I care deeply about getting them right. I want to do my best to explain what we know here.
+
+Of all the content on Facebook, more than 99% of what people see is authentic. Only a very small amount is fake news and hoaxes. The hoaxes that do exist are not limited to one partisan view, or even to politics. Overall, this makes it extremely unlikely hoaxes changed the outcome of this election in one direction or the other.
+
+That said, we don't want any hoaxes on Facebook. Our goal is to show people the content they will find most meaningful, and people want accurate news. We have already launched work enabling our community to flag hoaxes and fake news, and there is more we can do here. We have made progress, and we will continue to work on this to improve further.
+
+This is an area where I believe we must proceed very carefully though. Identifying the "truth" is complicated. While some hoaxes can be completely debunked, a greater amount of content, including from mainstream sources, often gets the basic idea right but some details wrong or omitted. An even greater volume of stories express an opinion that many will disagree with and flag as incorrect even when factual. I am confident we can find ways for our community to tell us what content is most meaningful, but I believe we must be extremely cautious about becoming arbiters of truth ourselves.
+
+As we continue our research, we are committed to always updating you on how News Feed evolves. We hope to have more to share soon, although this work often takes longer than we'd like in order to confirm changes we make won't introduce unintended side effects or bias into the system. If you're interested in following our updates, I encourage you to follow our News Feed FYI here: http://bit.ly/2frNWo2.
+
+Overall, I am proud of our role giving people a voice in this election. We helped more than 2 million people register to vote, and based on our estimates we got a similar number of people to vote who might have stayed home otherwise. We helped millions of people connect with candidates so they could hear from them directly and be better informed. Most importantly, we gave tens of millions of people tools to share billions of posts and reactions about this election. A lot of that dialog may not have happened without Facebook.
+
+This has been a historic election and it has been very painful for many people. Still, I think it's important to try to understand the perspective of people on the other side. In my experience, people are good, and even if you may not feel that way today, believing in people leads to better results over the long term.
+
+We aren't born hating each other. We aren't born with such extreme views. We may not be able to solve every problem, but we all have a responsibility to do what we can. I believe we can do something about the parts of our culture that teach a person to hate someone else.
+
+It's important that Facebook is a place where people with different views can share their ideas. Debate is part of a healthy society. But when someone tries to silence others or attacks them based on who they are or what they believe, that hurts us all and is unacceptable.
+
+There is no place for hate in our community. That's why we've always taken down any post that promotes or celebrates hate crimes or acts of terrorism -- including what happened in Charlottesville. With the potential for more rallies, we're watching the situation closely and will take down threats of physical harm. We won't always be perfect, but you have my commitment that we'll keep working to make Facebook a place where everyone can feel safe.
+
+The last few days have been hard to process. I know a lot of us have been asking where this hate comes from. As a Jew, it's something I've wondered much of my life. It's a disgrace that we still need to say that neo-Nazis and white supremacists are wrong -- as if this is somehow not obvious. My thoughts are with the victims of hate around the world, and everyone who has the courage to stand up to it every day.
+
+There may always be some evil in the world, and maybe we can't do anything about that. But there's too much polarization in our culture, and we can do something about that. There's not enough balance, nuance, and depth in our public discourse, and I believe we can do something about that. We need to bring people closer together, and I know we can make progress at that.
